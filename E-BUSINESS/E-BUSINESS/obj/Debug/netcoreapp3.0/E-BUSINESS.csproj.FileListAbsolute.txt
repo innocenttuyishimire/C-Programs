@@ -1,0 +1,11 @@
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.exe
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.deps.json
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.runtimeconfig.json
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.runtimeconfig.dev.json
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.dll
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\bin\Debug\netcoreapp3.0\E-BUSINESS.pdb
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\obj\Debug\netcoreapp3.0\E-BUSINESS.csprojAssemblyReference.cache
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\obj\Debug\netcoreapp3.0\E-BUSINESS.AssemblyInfoInputs.cache
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\obj\Debug\netcoreapp3.0\E-BUSINESS.AssemblyInfo.cs
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\obj\Debug\netcoreapp3.0\E-BUSINESS.dll
+C:\Users\MANZI\Desktop\c#ass\E-BUSINESS\E-BUSINESS\obj\Debug\netcoreapp3.0\E-BUSINESS.pdb
